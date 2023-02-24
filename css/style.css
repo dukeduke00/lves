@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	width: 1054px;
+	height: 222px;
+	font-family: "Inter", sans-serif;
+}
+
+.score {
+	background: url(../images/background.png);
+	height: 222px;
+	justify-content: center;
+}
+
+.leftScore {
+	margin-top: 56px;
+}
+
+.rightScore {
+	margin-top: 56px;
+}
